@@ -43,13 +43,21 @@ Objetivos Especificos
 
 ![MAPA 9_I5](https://user-images.githubusercontent.com/116821649/210292008-0d426413-684d-4ec6-970c-b7a438390d41.png)
 
-
+![MAPA 10_I5](https://user-images.githubusercontent.com/116821649/210294608-a520d92d-ce48-47d0-801d-a596596122a1.png)
 
 Resolucion de ejercicios del libro de Floyd
 
 * CAPITULO 9
 
 2. Evalúe cada determinante:
+
+![image](https://user-images.githubusercontent.com/116821649/210295329-89ca0338-a67c-430b-a4d1-2fbac10c9ebc.png)
+
+4. Evalúe cada uno de los determinantes:
+
+![image](https://user-images.githubusercontent.com/116821649/210296213-c79945ab-7c90-4554-8699-07c94df5d012.png)
+
+6. Determine I3 en el ejemplo 9-4.
 
 
 
