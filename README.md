@@ -93,6 +93,13 @@ Resolucion de ejercicios del libro de Floyd
 
 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
 
+![image](https://user-images.githubusercontent.com/116821649/210447954-65d2a4d8-f6f7-4cca-a479-443035b99d7a.png)
+
+![image](https://user-images.githubusercontent.com/116821649/210447989-79019ef5-6662-4d53-aec6-9a113fa9b66b.png)
+
+![image](https://user-images.githubusercontent.com/116821649/210448012-9888d263-894c-4c91-9b3c-64ce14195918.png)
+
+14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
 
 
 * CAPITULO 10
