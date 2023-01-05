@@ -101,6 +101,31 @@ Resolucion de ejercicios del libro de Floyd
 
 14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
 
+![image](https://user-images.githubusercontent.com/116821649/210680032-babd999a-d667-45e8-a5ce-f6b63c1746ff.png)
+
+16. Escriba el determinante característico para las ecuaciones:
+
+![image](https://user-images.githubusercontent.com/116821649/210680290-480d5347-cd05-44cd-9ff1-8adfa40ca4ad.png)
+
+18. Determine las corrientes de rama en la figura 9-28.
+
+![image](https://user-images.githubusercontent.com/116821649/210681125-b7d82bed-761a-4df0-baeb-d5a5d060746c.png)
+
+20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
+
+![image](https://user-images.githubusercontent.com/116821649/210681464-0a7a01af-82ec-4fc2-b09e-8fcfd1eb8117.png)
+
+22. Determine la corriente a través de cada resistor en la figura 9-29.
+
+![image](https://user-images.githubusercontent.com/116821649/210682458-a2b5e841-e682-4935-be5e-da3ee8bf6df5.png)
+
+![image](https://user-images.githubusercontent.com/116821649/210683856-cc53a28c-6809-4d65-88cf-78aa0c392a58.png)
+
+24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
+
+![image](https://user-images.githubusercontent.com/116821649/210691460-ca55ad47-897f-42bb-a3a2-2e94f8878547.png)
+
+![image](https://user-images.githubusercontent.com/116821649/210691494-d9c5f538-d68e-41f0-8e66-aa7aca621eea.png)
 
 * CAPITULO 10
 
